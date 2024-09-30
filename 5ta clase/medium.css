@@ -1,0 +1,9 @@
+.contenedor{
+    justify-content: center;
+
+}
+
+.item{
+    background-color: chartreuse;
+    width: 80px;
+}
